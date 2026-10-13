@@ -1,0 +1,82 @@
+======================================================================
+📊 BÁO CÁO PHÂN TÍCH SENTIMENT - FACEBOOK UIT
+   Ngày tạo: 2026-10-13 17:16:58
+======================================================================
+
+📈 TỔNG QUAN
+   Tổng số bài viết: 29
+   ✅ Tích cực:     8 (27.6%)
+   ❌ Tiêu cực:     2 (6.9%)
+   ⚪ Trung lập:   19 (65.5%)
+
+📊 THỐNG KÊ THEO PAGE
+   📄 UIT.Fanpage (11 bài)
+      ✅ Tích cực:  1
+      ❌ Tiêu cực:  2
+      ⚪ Trung lập: 8
+   📄 UITconfess (18 bài)
+      ✅ Tích cực:  7
+      ❌ Tiêu cực:  0
+      ⚪ Trung lập: 11
+
+🎓 BÀI VIẾT LIÊN QUAN ĐẾN UIT
+   Tổng: 14 / 29 bài
+   ✅ Tích cực:  4
+   ❌ Tiêu cực:  0
+   ⚪ Trung lập: 10
+
+🔥 TOP 10 BÀI TƯƠNG TÁC CAO NHẤT
+    1. ✅ [UITconfess] 👍32 💬0 | #3684
+Chào bạn hiền nha ~
+Cảm ơn bạn đã đồng hành với mình qua các đồ án và cả khóa luận tốt nghiệp....
+    2. ⚪ [UITconfess] 👍25 💬0 | #3678
+Tui nói thiệt chứ CHUYẾN XA CÔNG CUỘC tuổi gì so với XK vậy. Các bạn chỉ làm được cái ngày hội...
+    3. ⚪ [UITconfess] 👍8 💬0 | #3676
+Mấy anh chị hết thời muốn thì megalive đi CHIẾN XA CÔNG CUỘC, chúng tôi gọi tên 20h tối nay
+--...
+    4. ✅ [UITconfess] 👍4 💬0 | #3664
+Cũng qua nhiều ngày rồi nhưng mình tha thiết tìm xin info bạn nữ cameraman mặc sơ mi hoa nhí m...
+    5. ✅ [UITconfess] 👍3 💬0 | #3666
+Cho em hỏi đây có phải cách tổ chức bình thường không ạ?
+Môn TKĐH của cô ĐTTT có 3 lớp học cùn...
+    6. ✅ [UITconfess] 👍2 💬0 | #3688
+Hi mọi người, Mình là người đã đề xuất giúp mọi người cái ổ cắm trước hội nghị của đoàn khoa đ...
+    7. ✅ [UITconfess] 👍2 💬0 | #3670
+em biết trường mình hơn 80% là nam nhưng mà ở ngành truyền thông đa phương tiện thì chắc tỉ lệ...
+    8. ⚪ [UIT.Fanpage] 👍0 💬0 | Gia Hưng háo hức á
+47 phút
+    9. ⚪ [UIT.Fanpage] 👍0 💬0 | hệ từ xa đăng kí được không ad
+1 giờ
+   10. ❌ [UIT.Fanpage] 👍0 💬0 | Tuyet Nguyen hãy hợp tác với tôi
+23 giờ
+
+⚠️ TOP BÀI TIÊU CỰC NHẤT
+   1. Score: -0.420 | Keywords: 
+      "Tuyet Nguyen hãy hợp tác với tôi
+23 giờ..."
+   2. Score: -0.420 | Keywords: 
+      "LIVESTREAM LỄ KHAI KHÓA - 2026…..."
+
+🌟 TOP BÀI TÍCH CỰC NHẤT
+   1. Score: 0.820 | Keywords: tốt, yêu, cảm ơn, tốt nghiệp
+      "#3684
+Chào bạn hiền nha ~
+Cảm ơn bạn đã đồng hành với mình qua các đồ án và cả khóa luận tốt nghiệp.
+Mình rất trân trọng..."
+   2. Score: 0.420 | Keywords: 
+      "UITERS ƠI, MÌNH CÙNG CHẠY BỘ, CÙNG KHỎE HƠN MỖI NGÀY NHA!
+Họ…..."
+   3. Score: 0.420 | Keywords: 
+      "Đức Tuấn t ngại nhận người quen quá
+9 tuần..."
+   4. Score: 0.420 | Keywords: 
+      "Trần Nguyễn Trung Kiên =)) tâm lý chung của thời đại em ạ
+17 tuần..."
+   5. Score: 0.400 | Keywords: vui
+      "#3688
+Hi mọi người, Mình là người đã đề xuất giúp mọi người cái ổ cắm trước hội nghị của đoàn khoa đây, lúc đầu thấy 4 n..."
+
+======================================================================
+📝 Phương pháp: Hybrid (underthesea NLP + Keyword-based)
+   NLP weight: 60% | Keyword weight: 40%
+======================================================================
