@@ -49,17 +49,37 @@ def install_requirements():
 
 
 def run_scraper():
-    """Chạy scraper chính (Playwright Stealth V2 vượt Login Wall)."""
+    """Chạy scraper: Ưu tiên V3 (có đăng nhập nếu có .env), fallback V2 (ẩn danh), fallback mbasic."""
+    env_file = Path(__file__).parent / ".env"
+    has_creds = False
+    if env_file.exists():
+        content = env_file.read_text(encoding="utf-8")
+        if "FB_EMAIL" in content and "FB_PASSWORD" in content:
+            has_creds = True
+
+    if has_creds:
+        print("\n" + "=" * 60)
+        print("🕷️ BƯỚC 1: CRAWL FACEBOOK V3 (TÀI KHOẢN ĐĂNG NHẬP)")
+        print("=" * 60 + "\n")
+        try:
+            from scraper_v3 import main as scrape_v3_main
+            posts = scrape_v3_main()
+            if posts:
+                return posts
+            print("⚠️ Scraper V3 không lấy được bài, chuyển sang Scraper V2 (ẩn danh)...")
+        except Exception as e:
+            print(f"\n⚠️ Scraper V3 gặp lỗi: {e}")
+            print("🔄 Chuyển sang Scraper V2 (ẩn danh)...\n")
+
     print("\n" + "=" * 60)
-    print("🕷️ BƯỚC 1: CRAWL DỮ LIỆU TỪ FACEBOOK (PLAYWRIGHT V2)")
+    print("🕷️ BƯỚC 1: CRAWL DỮ LIỆU TỪ FACEBOOK (PLAYWRIGHT V2 ẨN DANH)")
     print("=" * 60 + "\n")
-    
     try:
         from scraper_v2 import main as scrape_v2_main
         posts = scrape_v2_main()
         if posts:
             return posts
-        print("⚠️ Playwright V2 không trích xuất được bài, thử scraper cơ bản...")
+        print("⚠️ Playwright V2 không trích xuất được bài, thử fallback...")
     except Exception as e:
         print(f"\n⚠️ Playwright V2 gặp lỗi: {e}")
         print("🔄 Chuyển sang fallback scraper...\n")

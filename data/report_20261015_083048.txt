@@ -1,0 +1,87 @@
+======================================================================
+📊 BÁO CÁO PHÂN TÍCH SENTIMENT - FACEBOOK UIT
+   Ngày tạo: 2026-10-15 08:30:48
+======================================================================
+
+📈 TỔNG QUAN
+   Tổng số bài viết: 48
+   ✅ Tích cực:    18 (37.5%)
+   ❌ Tiêu cực:     4 (8.3%)
+   ⚪ Trung lập:   26 (54.2%)
+
+📊 THỐNG KÊ THEO PAGE
+   📄 UITconfess (36 bài)
+      ✅ Tích cực:  17
+      ❌ Tiêu cực:  2
+      ⚪ Trung lập: 17
+   📄 UIT.Fanpage (12 bài)
+      ✅ Tích cực:  1
+      ❌ Tiêu cực:  2
+      ⚪ Trung lập: 9
+
+🎓 BÀI VIẾT LIÊN QUAN ĐẾN UIT
+   Tổng: 24 / 48 bài
+   ✅ Tích cực:  9
+   ❌ Tiêu cực:  0
+   ⚪ Trung lập: 15
+
+🔥 TOP 10 BÀI TƯƠNG TÁC CAO NHẤT
+    1. ✅ [UITconfess] 👍32 💬0 | #3684
+Chào bạn hiền nha ~
+Cảm ơn bạn đã đồng hành với mình qua các đồ án và cả khóa luận tốt nghiệp....
+    2. ⚪ [UITconfess] 👍25 💬0 | #3678
+Tui nói thiệt chứ CHUYẾN XA CÔNG CUỘC tuổi gì so với XK vậy. Các bạn chỉ làm được cái ngày hội...
+    3. ⚪ [UITconfess] 👍8 💬0 | #3676
+Mấy anh chị hết thời muốn thì megalive đi CHIẾN XA CÔNG CUỘC, chúng tôi gọi tên 20h tối nay
+--...
+    4. ✅ [UITconfess] 👍4 💬0 | #3664
+Cũng qua nhiều ngày rồi nhưng mình tha thiết tìm xin info bạn nữ cameraman mặc sơ mi hoa nhí m...
+    5. ✅ [UITconfess] 👍3 💬0 | #3666
+Cho em hỏi đây có phải cách tổ chức bình thường không ạ?
+Môn TKĐH của cô ĐTTT có 3 lớp học cùn...
+    6. ✅ [UITconfess] 👍2 💬0 | #3688
+Hi mọi người, Mình là người đã đề xuất giúp mọi người cái ổ cắm trước hội nghị của đoàn khoa đ...
+    7. ✅ [UITconfess] 👍2 💬0 | #3670
+em biết trường mình hơn 80% là nam nhưng mà ở ngành truyền thông đa phương tiện thì chắc tỉ lệ...
+    8. ⚪ [UITconfess] 👍0 💬0 | Khuyên thật mọi người ai đang ôm quá nhiều thứ thì có thể thử tạm dừng lại 1,2 cái rồi tập trung cái...
+    9. ⚪ [UITconfess] 👍0 💬0 | #3352
+Bạn đã bao giờ sống và làm việc nhiều công việc cùng một lúc chưa? Mình cũng là một người như ...
+   10. ⚪ [UITconfess] 👍0 💬0 | #3350
+Mọi người cho mình hỏi, họp lớp xét điểm rèn luyện hay họp lớp định kì, nếu mà vắng vì có việc...
+
+⚠️ TOP BÀI TIÊU CỰC NHẤT
+   1. Score: -0.420 | Keywords: 
+      "Tuyet Nguyen hãy hợp tác với tôi
+23 giờ..."
+   2. Score: -0.420 | Keywords: 
+      "LIVESTREAM LỄ KHAI KHÓA - 2026…..."
+   3. Score: -0.400 | Keywords: [-]rác
+      "#3346
+GHÉT MẤY ĐỨA NHÓM TRƯỞNG MÀ KHÔNG PHÂN CÔNG GIAO RÕ VIỆC, CỨ ĐỂ PHẢI NHẮC, PHẢI DEADLINE TỚI DIT RỒI MỚI BẮT ĐẦU L..."
+   4. Score: -0.340 | Keywords: hay, thích, học bổng, [-]rác, [-]bất công
+      "#3344
+Từ khi nào cfs trở nên nơi để làm nhóm thấy không hợp thì lên đây vậy, rồi từ khi nào chuyện bất công trên lớp khô..."
+
+🌟 TOP BÀI TÍCH CỰC NHẤT
+   1. Score: 0.820 | Keywords: tốt, đẹp, thích, cảm ơn, tốt nghiệp
+      "#3376
+Em chào mấy anh chị. Hồi đợt UIT Job Fair 2025 em thấy áo ngày hội đẹp quá. Em thật sự rất thích nó, hong biết có ..."
+   2. Score: 0.820 | Keywords: tốt, yêu, cảm ơn, tốt nghiệp
+      "#3684
+Chào bạn hiền nha ~
+Cảm ơn bạn đã đồng hành với mình qua các đồ án và cả khóa luận tốt nghiệp.
+Mình rất trân trọng..."
+   3. Score: 0.420 | Keywords: 
+      "UITERS ƠI, MÌNH CÙNG CHẠY BỘ, CÙNG KHỎE HƠN MỖI NGÀY NHA!
+Họ…..."
+   4. Score: 0.420 | Keywords: 
+      "Đức Tuấn t ngại nhận người quen quá
+9 tuần..."
+   5. Score: 0.420 | Keywords: 
+      "Trần Nguyễn Trung Kiên =)) tâm lý chung của thời đại em ạ
+17 tuần..."
+
+======================================================================
+📝 Phương pháp: Hybrid (underthesea NLP + Keyword-based)
+   NLP weight: 60% | Keyword weight: 40%
+======================================================================

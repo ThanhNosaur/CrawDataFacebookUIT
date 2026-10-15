@@ -3,5 +3,7 @@ __pycache__/
 *$py.class
 logs/
 debug/
+cookies/
+.env
 .vscode/
 .idea/
